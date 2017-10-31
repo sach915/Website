@@ -1,0 +1,10 @@
+html{
+  background: -webkit-linear-gradient(#007991, #78ffd6);
+  background: -moz-linear-gradient(#007991, #78ffd6);
+  background: -o-linear-gradient(#007991, #78ffd6);
+  background: -ms-linear-gradient(#007991, #78ffd6);
+  background: linear-gradient(#007991, #78ffd6);
+}
+h1{
+  color: white
+}
